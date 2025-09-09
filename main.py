@@ -1,3 +1,5 @@
+from keep_alive import keep_alive
+keep_alive()
 import discord
 from discord.ext import commands
 import asyncio
@@ -176,3 +178,4 @@ async def whitelist_show(ctx):
 # Run the Bot
 # -------------------------
 bot.run(os.getenv("DISCORD_TOKEN"))
+
