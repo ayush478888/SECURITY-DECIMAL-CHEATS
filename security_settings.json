@@ -1,0 +1,11 @@
+{
+  "owner_id": 1363029073328078848,
+  "whitelist": [
+    1411759460011212841
+  ],
+  "log_channel_id": 1409466690978316309,
+  "mass_threshold_actions": 3,
+  "mass_window_seconds": 10,
+  "auto_restore": true
+
+}
